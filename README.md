@@ -1,9 +1,6 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=vovavc&theme=synthwave" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovavc&layout=donut-vertical&theme=synthwave" />
-</p>
 
 <!--
 **VoVaVc/VoVaVc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
